@@ -28,6 +28,3 @@ jobs:
           config_timezone: America/Toronto
           plugin_followup: yes
           plugin_followup_indepth: yes
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list
-          plugin_sponsors_past: yes
