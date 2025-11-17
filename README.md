@@ -1,17 +1,3 @@
-### Recent project contributions 🏗️
-
-
-- [simoncaron/homelab-infra](https://github.com/simoncaron/homelab-infra) (1 day ago)
-  -  All things homelab!
-- [truenas/apps](https://github.com/truenas/apps) (1 day ago)
-  - 
-- [simoncaron/ansible-role-traefik](https://github.com/simoncaron/ansible-role-traefik) (2 weeks ago)
-  - Ansible Role - Install Traefik Server
-- [simoncaron/powerdns-adguard-shim](https://github.com/simoncaron/powerdns-adguard-shim) (1 month ago)
-  - Forward PowerDNS API calls to AdguardHome for DNS rewrites management
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 month ago)
-  - Terraform / OpenTofu Provider for Proxmox VE
-
 ### Recent pull requests 🛠️
 
 
@@ -21,7 +7,7 @@
 - [Update Doc/Meta for PVE9/Trixie Support](https://github.com/lae/ansible-role-proxmox/pull/321) on [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) (2 months ago)
 - [Feature/remove install from source](https://github.com/simoncaron/ansible-role-certbot-cloudflare/pull/2) on [simoncaron/ansible-role-certbot-cloudflare](https://github.com/simoncaron/ansible-role-certbot-cloudflare) (2 months ago)
 
-### Recent releases 📦️
+### Recent releases I've contributed to 📦️
 
 
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 4 days ago)
