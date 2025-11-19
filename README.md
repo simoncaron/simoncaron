@@ -24,13 +24,13 @@
 ### Recent starred projects ⭐️
 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) (11422)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) (11423)
   - 🚀2.3x Faster than MinIO for 4K Small Files.  RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) (390)
   - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) (576)
   - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) (2623)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) (2625)
   - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [rasmuslos/ShelfPlayer](https://github.com/rasmuslos/ShelfPlayer) (476)
   - Native Audiobookshelf player for iOS &amp; iPadOS
