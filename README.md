@@ -1,7 +1,7 @@
 ### Recent pull requests 🛠️
 
 
-- [influxdb: Add Certificate Option to enable SSL](https://github.com/truenas/apps/pull/3623) on [truenas/apps](https://github.com/truenas/apps) (4 days ago)
+- [influxdb: Add Certificate Option to enable SSL](https://github.com/truenas/apps/pull/3623) on [truenas/apps](https://github.com/truenas/apps) (5 days ago)
 - [feat(sdn): Add DHCP Config for SDN Simple Zone Resource](https://github.com/bpg/terraform-provider-proxmox/pull/2210) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 month ago)
 - [Update PBS Storage Encryption Key Format/Parsing](https://github.com/lae/ansible-role-proxmox/pull/322) on [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) (2 months ago)
 - [Update Doc/Meta for PVE9/Trixie Support](https://github.com/lae/ansible-role-proxmox/pull/321) on [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) (2 months ago)
@@ -10,7 +10,7 @@
 ### Recent releases I've contributed to 📦️
 
 
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 6 days ago)
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 1 week ago)
   - A modern Jellyfin client built with Expo
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) ([v1.10.0](https://github.com/lae/ansible-role-proxmox/releases/tag/v1.10.0), 1 week ago)
   - IaC for Proxmox VE clusters.
@@ -18,7 +18,7 @@
   - Ansible Role - Install Traefik Server
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.86.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.86.0), 3 weeks ago)
   - Terraform / OpenTofu Provider for Proxmox VE
-- [simoncaron/ansible-role-pve_apcupsd](https://github.com/simoncaron/ansible-role-pve_apcupsd) ([1.3.0](https://github.com/simoncaron/ansible-role-pve_apcupsd/releases/tag/1.3.0), 1 month ago)
+- [simoncaron/ansible-role-pve_apcupsd](https://github.com/simoncaron/ansible-role-pve_apcupsd) ([1.3.0](https://github.com/simoncaron/ansible-role-pve_apcupsd/releases/tag/1.3.0), 2 months ago)
   - Ansible Role - Configures apcupsd on Proxmox VE
 
 ### Recent starred projects ⭐️
