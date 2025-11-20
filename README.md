@@ -10,21 +10,21 @@
 ### Recent releases I've contributed to 📦️
 
 
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.87.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.87.0), today)
+  - Terraform / OpenTofu Provider for Proxmox VE
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 1 week ago)
   - A modern Jellyfin client built with Expo
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) ([v1.10.0](https://github.com/lae/ansible-role-proxmox/releases/tag/v1.10.0), 1 week ago)
   - IaC for Proxmox VE clusters.
 - [simoncaron/ansible-role-traefik](https://github.com/simoncaron/ansible-role-traefik) ([1.0.2](https://github.com/simoncaron/ansible-role-traefik/releases/tag/1.0.2), 2 weeks ago)
   - Ansible Role - Install Traefik Server
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.86.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.86.0), 3 weeks ago)
-  - Terraform / OpenTofu Provider for Proxmox VE
 - [simoncaron/ansible-role-pve_apcupsd](https://github.com/simoncaron/ansible-role-pve_apcupsd) ([1.3.0](https://github.com/simoncaron/ansible-role-pve_apcupsd/releases/tag/1.3.0), 2 months ago)
   - Ansible Role - Configures apcupsd on Proxmox VE
 
 ### Recent starred projects ⭐️
 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) (11427)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) (11430)
   - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) (390)
   - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
