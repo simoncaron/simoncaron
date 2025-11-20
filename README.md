@@ -24,7 +24,7 @@
 ### Recent starred projects ⭐️
 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) (11455)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) (11454)
   - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) (390)
   - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
