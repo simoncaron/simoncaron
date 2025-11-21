@@ -1,7 +1,7 @@
 ### Recent pull requests 🛠️
 
 
-- [influxdb: Add Certificate Option to enable SSL](https://github.com/truenas/apps/pull/3623) on [truenas/apps](https://github.com/truenas/apps) (5 days ago)
+- [influxdb: Add Certificate Option to enable SSL](https://github.com/truenas/apps/pull/3623) on [truenas/apps](https://github.com/truenas/apps) (6 days ago)
 - [feat(sdn): Add DHCP Config for SDN Simple Zone Resource](https://github.com/bpg/terraform-provider-proxmox/pull/2210) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 month ago)
 - [Update PBS Storage Encryption Key Format/Parsing](https://github.com/lae/ansible-role-proxmox/pull/322) on [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) (2 months ago)
 - [Update Doc/Meta for PVE9/Trixie Support](https://github.com/lae/ansible-role-proxmox/pull/321) on [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) (2 months ago)
@@ -10,7 +10,7 @@
 ### Recent releases I've contributed to 📦️
 
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.87.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.87.0), today)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.87.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.87.0), 1 day ago)
   - Terraform / OpenTofu Provider for Proxmox VE
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 1 week ago)
   - A modern Jellyfin client built with Expo
@@ -24,7 +24,7 @@
 ### Recent starred projects ⭐️
 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) (11454)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) (11455)
   - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) (390)
   - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
