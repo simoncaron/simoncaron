@@ -30,7 +30,7 @@
   - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
 - [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) (592)
   - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) (2626)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) (2627)
   - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [rasmuslos/ShelfPlayer](https://github.com/rasmuslos/ShelfPlayer) (477)
   - Native Audiobookshelf player for iOS &amp; iPadOS
