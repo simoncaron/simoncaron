@@ -10,27 +10,27 @@
 ### Recent releases I've contributed to 📦️
 
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.91.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.91.0), 1 day ago)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.92.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.92.0), 1 day ago)
   - Terraform / OpenTofu Provider for Proxmox VE
-- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 2 weeks ago)
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 5 days ago)
+  - A modern Jellyfin client built with Expo
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 3 weeks ago)
   - Jellystat is a free and open source Statistics App for Jellyfin
 - [simoncaron/ansible-role-pve_nvidia_passthrough](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough) ([3.0.0](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough/releases/tag/3.0.0), 1 month ago)
   -  Ansible Role - Configures NVIDIA Drivers Installation on Proxmox VE 7.x  for GPU passthrough
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 1 month ago)
-  - A modern Jellyfin client built with Expo
-- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) ([v1.10.0](https://github.com/lae/ansible-role-proxmox/releases/tag/v1.10.0), 1 month ago)
+- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) ([v1.10.0](https://github.com/lae/ansible-role-proxmox/releases/tag/v1.10.0), 2 months ago)
   - IaC for Proxmox VE clusters.
 
 ### Recent starred projects ⭐️
 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) (18999)
+- [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) (2)
+  - 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) (19456)
   - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) (395)
+- [nix-community/terraform-nixos](https://github.com/nix-community/terraform-nixos) (398)
   - A set of Terraform modules that are designed to deploy NixOS [maintainer=@adrian-gierakowski]
-- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) (715)
+- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) (722)
   - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) (2682)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) (2688)
   - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
-- [rasmuslos/ShelfPlayer](https://github.com/rasmuslos/ShelfPlayer) (500)
-  - Native Audiobookshelf player for iOS &amp; iPadOS
