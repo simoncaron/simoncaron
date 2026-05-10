@@ -10,9 +10,9 @@
 ### Recent releases I've contributed to 📦️
 
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.105.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.105.0), 1 day ago)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.106.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.106.0), 4 days ago)
   - Terraform / OpenTofu Provider for Proxmox VE
-- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 2 weeks ago)
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 3 weeks ago)
   - Jellystat is a free and open source Statistics App for Jellyfin
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) ([v1.10.1](https://github.com/lae/ansible-role-proxmox/releases/tag/v1.10.1), 2 months ago)
   - IaC for Proxmox VE clusters.
@@ -24,13 +24,13 @@
 ### Recent starred projects ⭐️
 
 
-- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1361)
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1369)
   - Docker Compose Continuous Deployment
-- [vehagn/homelab](https://github.com/vehagn/homelab) (389)
+- [vehagn/homelab](https://github.com/vehagn/homelab) (388)
   - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
 - [Tinyblargon/ansible-role-cpu-scaling-governor](https://github.com/Tinyblargon/ansible-role-cpu-scaling-governor) (2)
   - Ansible role to set the cpu frequency scaling governor at startup
 - [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) (3)
   - 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) (26976)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) (27291)
   - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
