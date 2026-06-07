@@ -10,7 +10,7 @@
 ### Recent releases I've contributed to 📦️
 
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.107.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.107.0), 1 week ago)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.109.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.109.0), 1 day ago)
   - Terraform / OpenTofu Provider for Proxmox VE
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 1 month ago)
   - Jellystat is a free and open source Statistics App for Jellyfin
@@ -24,11 +24,11 @@
 ### Recent starred projects ⭐️
 
 
-- [nasty-project/nasty](https://github.com/nasty-project/nasty) (225)
+- [nasty-project/nasty](https://github.com/nasty-project/nasty) (240)
   - bcachefs based NAS solution
-- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1458)
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1482)
   - Docker Compose Continuous Deployment
-- [vehagn/homelab](https://github.com/vehagn/homelab) (395)
+- [vehagn/homelab](https://github.com/vehagn/homelab) (396)
   - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
 - [Tinyblargon/ansible-role-cpu-scaling-governor](https://github.com/Tinyblargon/ansible-role-cpu-scaling-governor) (2)
   - Ansible role to set the cpu frequency scaling governor at startup
