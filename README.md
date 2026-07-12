@@ -1,18 +1,18 @@
 ### Recent pull requests 🛠️
 
 
-- [fix(cluster): handle `influx_token` write-only status in `metrics_server`](https://github.com/bpg/terraform-provider-proxmox/pull/2972) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (1 week ago)
-- [feat(disk): add support for ZFS disk/zpool creation with `proxmox_node_disk_zfs`](https://github.com/bpg/terraform-provider-proxmox/pull/2952) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (2 weeks ago)
-- [feat(storage): add create_base_path and create_subdirs base options for cifs,nfs,dir storage resources](https://github.com/bpg/terraform-provider-proxmox/pull/2949) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (2 weeks ago)
-- [feat(storage): add `options` parameter for proxmox_storage_cifs resource](https://github.com/bpg/terraform-provider-proxmox/pull/2947) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (2 weeks ago)
+- [fix(cluster): handle `influx_token` write-only status in `metrics_server`](https://github.com/bpg/terraform-provider-proxmox/pull/2972) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (2 weeks ago)
+- [feat(disk): add support for ZFS disk/zpool creation with `proxmox_node_disk_zfs`](https://github.com/bpg/terraform-provider-proxmox/pull/2952) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (3 weeks ago)
+- [feat(storage): add create_base_path and create_subdirs base options for cifs,nfs,dir storage resources](https://github.com/bpg/terraform-provider-proxmox/pull/2949) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (3 weeks ago)
+- [feat(storage): add `options` parameter for proxmox_storage_cifs resource](https://github.com/bpg/terraform-provider-proxmox/pull/2947) on [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) (3 weeks ago)
 - [Fix formatting of cpu_scaling_governor_service_file_location](https://github.com/Tinyblargon/ansible-role-cpu-scaling-governor/pull/9) on [Tinyblargon/ansible-role-cpu-scaling-governor](https://github.com/Tinyblargon/ansible-role-cpu-scaling-governor) (4 months ago)
 
 ### Recent releases I've contributed to 📦️
 
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.111.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.111.1), 2 days ago)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.111.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.111.1), 1 week ago)
   - Terraform / OpenTofu Provider for Proxmox VE
-- [simoncaron/ansible-role-pve_acme](https://github.com/simoncaron/ansible-role-pve_acme) ([2.0.0](https://github.com/simoncaron/ansible-role-pve_acme/releases/tag/2.0.0), 3 weeks ago)
+- [simoncaron/ansible-role-pve_acme](https://github.com/simoncaron/ansible-role-pve_acme) ([2.0.0](https://github.com/simoncaron/ansible-role-pve_acme/releases/tag/2.0.0), 4 weeks ago)
   - Ansible Role - Acme Certificate Management for Proxmox VE
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) ([v1.10.1](https://github.com/lae/ansible-role-proxmox/releases/tag/v1.10.1), 4 months ago)
   - IaC for Proxmox VE clusters.
@@ -24,11 +24,11 @@
 ### Recent starred projects ⭐️
 
 
-- [nasty-project/nasty](https://github.com/nasty-project/nasty) (279)
+- [nasty-project/nasty](https://github.com/nasty-project/nasty) (290)
   - bcachefs based NAS solution
-- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1555)
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1567)
   - Docker Compose Continuous Deployment
-- [vehagn/homelab](https://github.com/vehagn/homelab) (396)
+- [vehagn/homelab](https://github.com/vehagn/homelab) (397)
   - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
 - [Tinyblargon/ansible-role-cpu-scaling-governor](https://github.com/Tinyblargon/ansible-role-cpu-scaling-governor) (2)
   - Ansible role to set the cpu frequency scaling governor at startup
