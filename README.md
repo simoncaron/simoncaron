@@ -24,9 +24,9 @@
 ### Recent starred projects ⭐️
 
 
-- [nasty-project/nasty](https://github.com/nasty-project/nasty) (315)
+- [nasty-project/nasty](https://github.com/nasty-project/nasty) (321)
   - bcachefs based NAS solution
-- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1596)
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1602)
   - Docker Compose Continuous Deployment
 - [vehagn/homelab](https://github.com/vehagn/homelab) (398)
   - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
