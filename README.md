@@ -16,7 +16,7 @@
   - Ansible Role - Acme Certificate Management for Proxmox VE
 - [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) ([v1.10.1](https://github.com/lae/ansible-role-proxmox/releases/tag/v1.10.1), 5 months ago)
   - IaC for Proxmox VE clusters.
-- [simoncaron/ansible-role-pve_nvidia_passthrough](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough) ([3.0.0](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough/releases/tag/3.0.0), 8 months ago)
+- [simoncaron/ansible-role-pve_nvidia_passthrough](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough) ([3.0.0](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough/releases/tag/3.0.0), 9 months ago)
   -  Ansible Role - Configures NVIDIA Drivers Installation on Proxmox VE 7.x  for GPU passthrough
 - [simoncaron/ansible-role-traefik](https://github.com/simoncaron/ansible-role-traefik) ([1.0.2](https://github.com/simoncaron/ansible-role-traefik/releases/tag/1.0.2), 9 months ago)
   - Ansible Role - Install Traefik Server
@@ -24,9 +24,9 @@
 ### Recent starred projects ⭐️
 
 
-- [nasty-project/nasty](https://github.com/nasty-project/nasty) (327)
+- [nasty-project/nasty](https://github.com/nasty-project/nasty) (334)
   - bcachefs based NAS solution
-- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1616)
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1632)
   - Docker Compose Continuous Deployment
 - [vehagn/homelab](https://github.com/vehagn/homelab) (400)
   - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
