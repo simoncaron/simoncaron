@@ -10,27 +10,27 @@
 ### Recent releases I've contributed to 📦️
 
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.111.1](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.111.1), 1 month ago)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.112.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.112.0), 2 days ago)
   - Terraform / OpenTofu Provider for Proxmox VE
 - [simoncaron/ansible-role-pve_acme](https://github.com/simoncaron/ansible-role-pve_acme) ([2.0.0](https://github.com/simoncaron/ansible-role-pve_acme/releases/tag/2.0.0), 2 months ago)
   - Ansible Role - Acme Certificate Management for Proxmox VE
-- [lae/ansible-role-proxmox](https://github.com/lae/ansible-role-proxmox) ([v1.10.1](https://github.com/lae/ansible-role-proxmox/releases/tag/v1.10.1), 6 months ago)
-  - IaC for Proxmox VE clusters.
 - [simoncaron/ansible-role-pve_nvidia_passthrough](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough) ([3.0.0](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough/releases/tag/3.0.0), 9 months ago)
   -  Ansible Role - Configures NVIDIA Drivers Installation on Proxmox VE 7.x  for GPU passthrough
 - [simoncaron/ansible-role-traefik](https://github.com/simoncaron/ansible-role-traefik) ([1.0.2](https://github.com/simoncaron/ansible-role-traefik/releases/tag/1.0.2), 10 months ago)
   - Ansible Role - Install Traefik Server
+- [simoncaron/ansible-role-pve_apcupsd](https://github.com/simoncaron/ansible-role-pve_apcupsd) ([1.3.0](https://github.com/simoncaron/ansible-role-pve_apcupsd/releases/tag/1.3.0), 11 months ago)
+  - Ansible Role - Configures apcupsd on Proxmox VE
 
 ### Recent starred projects ⭐️
 
 
-- [nasty-project/nasty](https://github.com/nasty-project/nasty) (348)
+- [evrardjp/ansible-keepalived](https://github.com/evrardjp/ansible-keepalived) (108)
+  - Keepalived role for ansible deployment
+- [nasty-project/nasty](https://github.com/nasty-project/nasty) (358)
   - bcachefs based NAS solution
-- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1643)
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1648)
   - Docker Compose Continuous Deployment
 - [vehagn/homelab](https://github.com/vehagn/homelab) (401)
   - Configuration for my homelab running Talos Kubernetes provisioned with OpenTofu.
 - [Tinyblargon/ansible-role-cpu-scaling-governor](https://github.com/Tinyblargon/ansible-role-cpu-scaling-governor) (2)
   - Ansible role to set the cpu frequency scaling governor at startup
-- [sebdanielsson/ansible-role-xcaddy](https://github.com/sebdanielsson/ansible-role-xcaddy) (4)
-  - 
