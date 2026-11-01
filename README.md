@@ -10,25 +10,23 @@
 ### Recent releases I've contributed to 📦️
 
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.118.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.118.0), 3 days ago)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.119.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.119.0), 3 days ago)
   - Terraform / OpenTofu Provider for Proxmox VE
 - [simoncaron/ansible-role-pve_acme](https://github.com/simoncaron/ansible-role-pve_acme) ([2.0.0](https://github.com/simoncaron/ansible-role-pve_acme/releases/tag/2.0.0), 4 months ago)
   - Ansible Role - Acme Certificate Management for Proxmox VE
 - [simoncaron/ansible-role-pve_nvidia_passthrough](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough) ([3.0.0](https://github.com/simoncaron/ansible-role-pve_nvidia_passthrough/releases/tag/3.0.0), 11 months ago)
   -  Ansible Role - Configures NVIDIA Drivers Installation on Proxmox VE 7.x  for GPU passthrough
-- [simoncaron/ansible-role-traefik](https://github.com/simoncaron/ansible-role-traefik) ([1.0.2](https://github.com/simoncaron/ansible-role-traefik/releases/tag/1.0.2), 11 months ago)
-  - Ansible Role - Install Traefik Server
 
 ### Recent starred projects ⭐️
 
 
-- [asciimoo/hister](https://github.com/asciimoo/hister) (6122)
+- [asciimoo/hister](https://github.com/asciimoo/hister) (6187)
   - Your own search engine
-- [lxc/incus-deploy](https://github.com/lxc/incus-deploy) (159)
+- [lxc/incus-deploy](https://github.com/lxc/incus-deploy) (160)
   - Deployment playbooks, configurations and scripts for Incus
 - [evrardjp/ansible-keepalived](https://github.com/evrardjp/ansible-keepalived) (108)
   - Keepalived role for ansible deployment
-- [nasty-project/nasty](https://github.com/nasty-project/nasty) (416)
+- [nasty-project/nasty](https://github.com/nasty-project/nasty) (420)
   - bcachefs based NAS solution
-- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1747)
+- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1756)
   - Docker Compose Continuous Deployment
