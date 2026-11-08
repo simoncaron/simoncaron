@@ -10,7 +10,7 @@
 ### Recent releases I've contributed to 📦️
 
 
-- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.119.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.119.0), 3 days ago)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) ([v0.120.0](https://github.com/bpg/terraform-provider-proxmox/releases/tag/v0.120.0), 6 days ago)
   - Terraform / OpenTofu Provider for Proxmox VE
 - [simoncaron/ansible-role-pve_acme](https://github.com/simoncaron/ansible-role-pve_acme) ([2.0.0](https://github.com/simoncaron/ansible-role-pve_acme/releases/tag/2.0.0), 4 months ago)
   - Ansible Role - Acme Certificate Management for Proxmox VE
@@ -20,13 +20,13 @@
 ### Recent starred projects ⭐️
 
 
-- [asciimoo/hister](https://github.com/asciimoo/hister) (6187)
+- [lxc/incus-ui](https://github.com/lxc/incus-ui) (18)
+  - Manage your Incus deployment from the web
+- [asciimoo/hister](https://github.com/asciimoo/hister) (6261)
   - Your own search engine
 - [lxc/incus-deploy](https://github.com/lxc/incus-deploy) (160)
   - Deployment playbooks, configurations and scripts for Incus
 - [evrardjp/ansible-keepalived](https://github.com/evrardjp/ansible-keepalived) (108)
   - Keepalived role for ansible deployment
-- [nasty-project/nasty](https://github.com/nasty-project/nasty) (420)
+- [nasty-project/nasty](https://github.com/nasty-project/nasty) (423)
   - bcachefs based NAS solution
-- [kimdre/doco-cd](https://github.com/kimdre/doco-cd) (1756)
-  - Docker Compose Continuous Deployment
